@@ -12,3 +12,6 @@ To test each function, you can comment/uncomment lines from this cell to run our
 
 ## 2) Preprocessing and Machine Learning Model
 This second part regroups all the functions necessary to run our model and the preprocessing of the dataset. You will find again a main execution cell.
+
+## 3) Visualisation of Analysis
+This third part regroups our plot functions. Theses were not specified in the subject and are solely used for the purpose of our presentation.
